@@ -1,17 +1,6 @@
 
 /*
 
-Nome: Jefferson Willian Santos Lopes da Silva --------> RA: N471590;  DS2P22
-Nome: Mark Castro Soares -------------------------- >	RA: D94FDC1;  DS2Q22
-Nome: Rafael de Almeida Gomes –--------------------- >	RA: N439JA-5; DS2P22
-Nome: Rafaela Dantas Rodrigues Henrique ------------->  RA: F122G-7;  DS1P22
-Nome: Sarah Naiane dos Santos –------------------ >		RA: N5318G7;  DS1P22 
-Nome: Soraya Alvim Puraca De Nigris –-------------->    RA: F0033b4;  DS2Q22
-====================================================================================
-APRESENTAÇÃO: DIA 11/12/2019  -  HORA 21:10
-====================================================================================
-GRUPO Nº 11;
-====================================================================================
 CAMINHO DE ARQUIVOS:
 
 "C:\\Users\\Iara\\Desktop\\arquivos\\gravarprodutos.bin"
