@@ -21,11 +21,14 @@ Será necessário realizar o clone do projeto, e criar os arquivos binarios abai
 CAMINHO DE ARQUIVOS:
 
 "C:\\Users\\Iara\\Desktop\\arquivos\\gravarprodutos.bin"
+
 "C:\\Users\\Iara\\Desktop\\arquivos\\gravarclientes.bin"
+
 "C:\\Users\\Iara\\Desktop\\arquivos\\gravarpedidos.bin"
+
 "C:\\Users\\Iara\\Desktop\\arquivos\\gravarcolaboradores.bin"
 
-Após, só executar o projeto (tudo feito pelo CMD).
+Após, só executar o projeto "Pim_final.c" (tudo feito pelo CMD).
 
 
 ### Feito Com
